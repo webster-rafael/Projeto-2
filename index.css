@@ -278,3 +278,12 @@ body{
 .create-account p a:hover{
     text-decoration: underline;
 }
+
+@media (max-width: 1000px) {
+    body {
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding: auto;
+    }
+}
